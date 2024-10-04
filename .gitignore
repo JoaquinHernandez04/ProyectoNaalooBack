@@ -1,0 +1,22 @@
+# Ignorar configuraciones locales
+appsettings.json
+appsettings.Development.json
+
+# Archivos temporales de Visual Studio
+.vscode/
+*.user
+*.suo
+*.csproj.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de build
+bin/
+obj/
+
+# Archivos de publicación
+.publish/
+
+# Ignorar directorios de paquetes y dependencias
+node_modules/
+packages/
